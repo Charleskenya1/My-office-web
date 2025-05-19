@@ -2,7 +2,7 @@
 Here’s a detailed GitHub README for your website repository:
 
 🌍 Website Repository
-Welcome to my Website Repository! This project is developed and maintained by FrediTech from Tanzania. It represents my work in programming, website development, and WhatsApp bot creation.
+Welcome to my Website Repository! This project is developed and maintained by CharleskeTech from Kenya🇰🇪. It represents my work in programming, website development, and WhatsApp bot creation.
 
 📌 About Me
 I am ®Charlesketech, a passionate programmer from Kenya 🇰🇪 with a deep interest in developing innovative solutions. My expertise includes web development, WhatsApp bot automation, and backend programming. This repository serves as a portfolio and a learning space to improve and share my coding projects with the world.
