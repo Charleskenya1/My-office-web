@@ -29,6 +29,7 @@ As a programmer, I believe in continuous learning and sharing knowledge. This we
 📬 Get in Touch
 If you're interested in my work or want to collaborate, feel free to reach out!
 
-GitHub: CharleskeTech
+GitHub: Charleskenya1
+
 Email: charlesodhiamboofficial@g.com
 Let me know if you want any changes or additional details!
